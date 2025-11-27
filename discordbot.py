@@ -13,8 +13,8 @@ DISCORD_BOT_ACCESS_TOKEN = os.environ["DISCORD_BOT_ACCESS_TOKEN"]  # 消すな
 
 free_talk_ID = 1056870243739381810
 event_atend_ID = 1056870243739381810
-teireikai_ID = 1056866893232885760 # 定例会チャンネルID
-test_ID = 1056870243739381810 #いーだチャンネルID
+teireikai_ID = 1056866893232885760
+test_ID = 1056870243739381810 
 
 smile = "\N{Smiling Face with Open Mouth and Smiling Eyes}"
 maru = "\N{Heavy Large Circle}"
